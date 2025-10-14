@@ -1,5 +1,5 @@
 # About Me
-Seasoned IT professional and TOGAF Certified Enterprise Architect with 24 years of experience delivering complex technology solutions in the Utility sector. Strong technical leadership and communication skills. Expert software development skill level. Well-versed in modern cloud application architectures and web frameworks such as React. Focused on ensuring the highest level of security and traceability from commits to operations.
+Seasoned IT professional and TOGAF Certified Enterprise Architect with 25 years of experience delivering complex technology solutions in the Utility sector. Strong technical leadership and communication skills. Expert software development skill level. Well-versed in modern cloud application architectures and web frameworks such as React. Focused on ensuring the highest level of security and traceability from commits to operations.
 
 # Skills
 
