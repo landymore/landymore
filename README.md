@@ -1,5 +1,5 @@
 # About Me
-Seasoned IT professional and TOGAF Certified Enterprise Architect with 25 years of experience delivering complex technology solutions in the Utility sector. Strong technical leadership and communication skills. Expert software development skill level. Well-versed in modern cloud application architectures and web frameworks such as React. Focused on ensuring the highest level of security and traceability from commits to operations.
+I'm Kevin Landymore, a seasoned IT leader based in California. With a foundation in software development and a progression into enterprise architecture, I've dedicated my career to transforming complex ideas into reliable, efficient solutions. My journey began in contact center support and evolved through senior development roles to strategic architecture positions, where I've influenced policies, standards, and large-scale migrations.
 
 # Skills
 
