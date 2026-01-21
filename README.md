@@ -5,13 +5,16 @@ I'm Kevin Landymore, a seasoned IT professional based in California. With a foun
 - Development Background
   -  C# / dotnet
   -  SQL (Oracle, SQL Server, Postgres, etc.)
-  -  TypeScript / Javasctript / React
+  -  TypeScript / Javascript - Angular / React
   -  Objective C
+  -  bash / zsh
+  -  Powershell
 - TOGAF 10 Certified Enterprise Architect
   - EA Foundation
   - EA Practitioner
   - EA Applied Practitioner
 - Enterprise DevOps
+  - YAML Frameworks (Azure DevOps) 
   - Governance & Compliance
     - Standards
     - Controls
@@ -22,6 +25,7 @@ I'm Kevin Landymore, a seasoned IT professional based in California. With a foun
     - Database
     - Patterns
   - Agile Enablement
+    - Enterprise Backlog managmenent
 
 # Disclaimer
 Code I commit using this account is my own work. Contributions made using this account are not on behalf of any employer or 3rd party, unless otherwise specified in the commit message.
