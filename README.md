@@ -26,6 +26,3 @@ I'm Kevin Landymore, a seasoned IT professional based in California. With a foun
     - Patterns
   - Agile Enablement
     - Enterprise Backlog managmenent
-
-# Disclaimer
-Code I commit using this account is my own work. Contributions made using this account are not on behalf of any employer or 3rd party, unless otherwise specified in the commit message.
